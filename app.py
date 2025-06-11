@@ -26,4 +26,4 @@ blood_pressure, skin_thickness, insulin, bmi, dpf, age]])
     if prediction == 1:
         st.error("Hasil: Positif Diabetes")
     else:
-        st.success("Hasil: Tidak Diabetes"
+        st.success("Hasil: Tidak Diabetes")
